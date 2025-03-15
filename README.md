@@ -1,5 +1,2 @@
-# clientes e servers
-gamemode de samp base para qualquer tipo de projeto.
-
-# Por que foi criado?
+# SAMP, Por que foi criado esse repositorio?
 Foi criado para guardar todos os clientes e servers do SAMP.
